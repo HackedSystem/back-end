@@ -6,12 +6,12 @@
 
 ## Attributions
 
-This project has influence from many sources. You can find a quasi-complete list of attributions in the file [`ATTRIBUTIONS.md`.](https://github.com/HackedSystem/app/blob/master/ATTRIBUTIONS.md)
+This project has influence from many sources. You can find a quasi-complete list of attributions in the file [`ATTRIBUTIONS.md`.](https://github.com/HackedSystem/app/blob/main/ATTRIBUTIONS.md)
 
 ## Contributions
 
 Please read
-[`CONTRIBUTIONS.md`](https://github.com/HackedSystem/app/blob/master/CONTRIBUTIONS.md) before submitting a pull request. For security reports, please follow our
+[`CONTRIBUTIONS.md`](https://github.com/HackedSystem/app/blob/main/CONTRIBUTIONS.md) before submitting a pull request. For security reports, please follow our
 [responsible disclosure policy.](https://hackedsystem.com/security)
 
 ## Documentation
