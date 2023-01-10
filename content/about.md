@@ -1,7 +1,7 @@
-![Ophuscado trademark](/assets/branding/Ophuscado-Square.png)
+![HackedSystem trademark](/assets/branding/HackedSystem-Square.png)
 
 > Computer Science enthusiasts.
 >
-> Ophuscado LLC motto.
+> HackedSystem LLC motto.
 
 ## On a mission to...
